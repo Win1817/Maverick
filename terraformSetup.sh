@@ -5,3 +5,5 @@ unzip terraform_1.8.1_linux_amd64.zip
 sudo mv terraform /usr/local/bin/
 
 terraform --version
+
+echo "Terraform Installed!"
